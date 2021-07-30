@@ -7,3 +7,13 @@ C:\Users\Noman\Documents\Visual Studio 2015\Projects\serverbackup\serverbackup\s
 C:\Users\Noman\Documents\Visual Studio 2015\Projects\serverbackup\serverbackup\serverbackup\obj\Release\serverbackup.exe
 C:\Users\Noman\Documents\Visual Studio 2015\Projects\serverbackup\serverbackup\serverbackup\obj\Release\serverbackup.pdb
 C:\Users\Noman\Documents\Visual Studio 2015\Projects\serverbackup\serverbackup\serverbackup\obj\Release\serverbackup.csprojResolveAssemblyReference.cache
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.csprojAssemblyReference.cache
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.Form1.resources
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.csproj.GenerateResource.cache
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.exe
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.pdb
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\bin\Release\serverbackup.exe.config
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\bin\Release\serverbackup.exe
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\bin\Release\serverbackup.pdb
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.Properties.Resources.resources
+E:\F_CH Data\ZRG Projects\serverbackup\DBBU_web_app\serverbackup\serverbackup\obj\Release\serverbackup.csproj.CoreCompileInputs.cache
